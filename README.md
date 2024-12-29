@@ -1,5 +1,5 @@
-# smtp-mail sender
-## hey guys...jus learnt smtplib and thought i might as well publish it caus why nott.
+# smtp-mail sender 🚀🚀🚀
+## hey guys...jus learnt smtplib and thought i might as well publish it caus why nott.😃
 ---
 <u> **To find one-time password** </u>
 
@@ -11,4 +11,4 @@
 * Paste it  instead of  "app_security_password" in line 10
 ---
   
-  ## Make sure that the app_security_password belongs to the sender_mail!!
+  ## Make sure that the app_security_password belongs to the sender_mail!!⚠️⚠️⚠️
